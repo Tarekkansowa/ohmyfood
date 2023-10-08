@@ -31,19 +31,20 @@ main {
     width: 100%;
 }
 
-.wrapper {
-    /* padding: 0 10px; */
-    width: 100%;
-    padding-top: 25px;
-    padding-left: auto;
-    padding-right: auto;
-    /* border: 1px solid lightgray; */
-    border-top-right-radius: 40px;
-    border-top-left-radius: 40px;
-    position: relative;
-    background-color: RGB(233, 236, 239);
-    top: -40px;
-}
+/*  */
+/* .wrapper { */
+/* padding: 0 10px; */
+/* width: 100%; */
+/* padding-top: 25px; */
+/* padding-left: auto; */
+/* padding-right:auto; */
+/* border: 1px solid lightgray; */
+/* border-top-right-radius: 40px; */
+/* border-top-left-radius: 40px; */
+/* position: relative; */
+/* background-color: RGB(233, 236, 239); */
+/* top: -40px; */
+/* } */
 
 .menue-header {
     font-family: 'Shrikhand', 'Franklin Gothic Medium';
