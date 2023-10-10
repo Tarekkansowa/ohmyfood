@@ -91,6 +91,7 @@ main {
 
 .plate-name {
     font-weight: bold;
+    text-align: left;
 }
 
 .plate-cont {
@@ -100,6 +101,8 @@ main {
 }
 
 .order {
+    width: 100%;
+    display: block;
     text-align: center;
 }
 
