@@ -92,11 +92,12 @@ header {
     }
 }
 
-/* header, */
-/* main, */
-/* footer { */
-/* animation: appear 3s linear; */
-/* } */
+/*  */
+header,
+main,
+footer {
+    animation: appear 1.5s linear;
+}
 
 .logo {
     text-align: center;
