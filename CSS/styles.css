@@ -92,10 +92,11 @@ header {
     }
 }
 
-header,
-main {
-    animation: appear 3s linear;
-}
+/* header, */
+/* main, */
+/* footer { */
+/* animation: appear 3s linear; */
+/* } */
 
 .logo {
     text-align: center;
@@ -553,6 +554,11 @@ footer {
         width: 50%;
     }
 
+    .new {
+        position: absolute;
+        right: 5%;
+        top: 5%;
+    }
 
     .footer-info i {
         padding-right: 5px;
