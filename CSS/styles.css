@@ -503,6 +503,11 @@ footer {
         font-size: 24px;
     }
 
+    #heart-svg {
+        position: relative;
+        top: -40px;
+    }
+
     footer {
         padding: 0;
         width: 100%;
@@ -559,6 +564,11 @@ footer {
         position: absolute;
         right: 5%;
         top: 5%;
+    }
+
+    #heart-svg {
+        position: relative;
+        top: -65px;
     }
 
     .footer-info i {
